@@ -18,8 +18,8 @@ gem 'bootsnap',                   '1.7.2', require: false
 gem 'factory_bot',                '6.1.0'
 gem 'factory_bot_rails',          '6.1.0'
 group :development, :test do
-  # gem 'debase'
-  # gem 'ruby-debug-ide'
+  gem 'debase'
+  gem 'ruby-debug-ide'
   gem 'rspec-rails',        '5.1.2'
   gem 'simplecov',          '0.21.2'
   gem 'sqlite3',            '1.4.2'
