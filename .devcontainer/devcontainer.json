@@ -8,7 +8,17 @@
 	"mounts": [
         "source=profile,target=/root,type=volume",
         "target=/root/.vscode-server,type=volume"
-    ]
+	],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"KoichiSasada.vscode-rdbg",
+				"eamodio.gitlens",
+				"esbenp.prettier-vscode",
+				"Shopify.ruby-lsp"
+			]
+		}
+	}
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
