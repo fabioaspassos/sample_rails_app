@@ -13,7 +13,7 @@ development:
   encoding: unicode
   host: db
   username: postgres
-  password:
+  password: postgres
   database: sample_rails_app_db
 
 test:
