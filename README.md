@@ -2,8 +2,14 @@
 
 This repository serves as a demonstration of debugging Ruby on Rails applications using Visual Studio Code (VSCode) and DevContainer. It's derived from the JetBrains sample_rails_app (https://github.com/JetBrains/sample_rails_app) and showcases the debugging process with the VSCode IDE.
 
+## Pre-Req
 
+VSCode
+Dev Containers Plugin
+Docker and Docker Compose instaled
 
+## How to do
+After clone this repo, open using vscode, and just press cmd+shift+P > Dev Containers: Reopen in Container.
 
 
 ##
