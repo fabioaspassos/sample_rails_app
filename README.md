@@ -1,6 +1,6 @@
 # Demonstrating Ruby on Rails Debugging with VSCode
 
-This repository serves as a demonstration of debugging Ruby on Rails applications using Visual Studio Code (VSCode). It's derived from the JetBrains sample_rails_app (https://github.com/JetBrains/sample_rails_app) and showcases the debugging process with the VSCode IDE.
+This repository serves as a demonstration of debugging Ruby on Rails applications using Visual Studio Code (VSCode) and DevContainer. It's derived from the JetBrains sample_rails_app (https://github.com/JetBrains/sample_rails_app) and showcases the debugging process with the VSCode IDE.
 
 
 
